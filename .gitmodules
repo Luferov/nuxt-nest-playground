@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Luferov/nest-boilerplate.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Luferov/nuxt-boilerplate
